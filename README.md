@@ -8,6 +8,7 @@ Welcome to the Python LeetCode Problems repository! This repository contains Pyt
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [License](#license)
 
 ## Introduction
 
@@ -26,3 +27,19 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
 
    ```bash
    cd python-leetcode-problems/ProblemName
+
+## Contributing
+
+1. **Fork the repository.**
+
+2. **Create a new branch for your feature or bug fix.**
+
+3. **Make changes and commit them.**
+   
+5. **Push the changes to your fork.**
+
+6. **Submit a pull request**
+   
+## License
+This repository is licensed under the MIT License
+
