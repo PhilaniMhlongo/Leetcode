@@ -30,5 +30,24 @@ Constraints:
 
 
 """
+from collections import deque
+class Solution:
+    def letterCombinations(self, digits: str) -> List[str]:
+        output_arr = deque()
+        if not digits:
+            return list(output_arr)
+
+        output_arr.append("")
+
+        char_map = ["0", "1", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"]
+
+        for i in range(len(digits)):
+            index = int(digits[i])
+            while len(output_arr[0]) == i:
+                permutation = output_arr.popleft()
+                for c in char_map[index]:
+                    output_arr.append(permutation + c)
+
+        return list(output_arr)
 
 
