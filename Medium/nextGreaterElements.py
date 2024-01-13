@@ -27,3 +27,19 @@ Constraints:
 
 
 """
+
+class Solution:
+    def nextGreaterElements(self, nums: List[int]) -> List[int]:
+        n = len(nums)
+        output_arr = [-1] * n
+        stack = []
+
+        for i in range(n * 2):
+            while stack and nums[stack[-1]] < nums[i % n]:
+                output_arr[stack.pop()] = nums[i % n]
+
+            if i < n:
+                stack.append(i)
+
+        return output_arr
+        
