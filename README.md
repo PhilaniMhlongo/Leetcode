@@ -7,7 +7,7 @@ Welcome to the Python LeetCode Problems repository! This repository contains Pyt
 - [Introduction](#introduction)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [Problems](#Problems)
 - [License](#license)
 
 ## Introduction
@@ -40,6 +40,13 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
 
 6. **Submit a pull request**
    
+
+## Problems 
+
+1. **Easy**
+
+2. **Medium**
+
 ## License
 This repository is licensed under the MIT License
 
