@@ -27,4 +27,14 @@ Constraints:
 
 
 """
+class Solution:
+    def toLowerCase(self, s: str) -> str:
+        result = ""
+        for c in s:
+            if c.isupper():
+                result += chr(ord(c) + 32)
+            else:
+                result += c
+        return result
+
 
