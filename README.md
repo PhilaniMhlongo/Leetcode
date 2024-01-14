@@ -44,8 +44,19 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
 ## Problems 
 
 1. **Easy**
+   - addTwoLinked;
+   - fizzBuzz;
+   - longestPalindrome;
+   - toLowerCase;
+   - twoSum;
 
 2. **Medium**
+   - 3Sums;
+   - ReverseInteger;
+   - lengthOfLongestSubstring;
+   - letterCombinations;
+   - minSubArrayLen;
+   - nextGreaterElements
 
 ## License
 This repository is licensed under the MIT License
