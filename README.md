@@ -49,6 +49,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - longestPalindrome
    - toLowerCase
    - twoSum
+   - numUniqueEmails
 
 2. **Medium**
    - 3Sums
