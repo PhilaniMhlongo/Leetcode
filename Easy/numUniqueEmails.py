@@ -44,3 +44,23 @@ Constraints:
 
 """
 
+class Solution:
+    def numUniqueEmails(self, emails: List[str]) -> int:
+        unique_emails = set()
+
+        for email in emails:
+            split_position = email.index("@")
+            local_name = email[:split_position]
+            domain_name = email[split_position:]
+
+            if "+" in local_name:
+                plus_position = local_name.index("+")
+                local_name = local_name[:plus_position]
+
+            local_name = local_name.replace(".", "")
+            new_name = local_name + domain_name
+            unique_emails.add(new_name)
+
+        return len(unique_emails)
+        
+
