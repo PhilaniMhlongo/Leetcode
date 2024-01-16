@@ -50,6 +50,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - toLowerCase
    - twoSum
    - numUniqueEmails
+   - containsDuplicate
 
 2. **Medium**
    - 3Sums
