@@ -40,4 +40,24 @@ Constraints:
 
 """
 
+class Solution:
+    def distanceBetweenBusStops(self, distance: List[int], start: int, destination: int) -> int:
+
+        clockwise_distance = 0
+        total_distance = 0
+
+        for i in range(len(distance)):
+            if start < destination and (start <= i < destination):
+                clockwise_distance += distance[i]
+
+            if start > destination and (start <= i or i < destination):
+                clockwise_distance += distance[i]
+
+            total_distance += distance[i]
+
+        return min(clockwise_distance, total_distance - clockwise_distance)
+
+
+        
+
 
