@@ -34,3 +34,21 @@ Constraints:
 
 
 """
+class Solution:
+    def reverseOnlyLetters(self, s: str) -> str:
+        reversed_string = []
+        j = len(s) - 1
+
+        for i in range(len(s)):
+
+            if s[i].isalpha():
+                while not s[j].isalpha():
+                    j -= 1
+                reversed_string.append(s[j])
+                j -= 1
+            else:
+                reversed_string.append(s[i])
+
+        return ''.join(reversed_string)
+
+        
