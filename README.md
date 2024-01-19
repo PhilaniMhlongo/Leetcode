@@ -53,6 +53,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - containsDuplicate
    - distanceBetweenBusStops
    - reverseOnlyLetters
+   - romanToInteger
 
 2. **Medium**
    - 3Sums
