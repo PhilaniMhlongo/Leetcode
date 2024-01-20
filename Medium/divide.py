@@ -31,3 +31,36 @@ Constraints:
 
 
 """
+
+class Solution:
+    def divide(self, dividend: int, divisor: int) -> int:
+        INT_MAX = 2**31 - 1
+        INT_MIN = -2**31
+    
+    # Handle special cases
+        if dividend == 0:
+            return 0
+        if dividend == INT_MIN and divisor == -1:
+            return INT_MAX
+    
+    # Determine the sign of the result
+        sign = -1 if (dividend < 0) ^ (divisor < 0) else 1
+    
+    # Take the absolute values for easier manipulation
+        dividend, divisor = abs(dividend), abs(divisor)
+    
+        quotient = 0
+        while dividend >= divisor:
+        # Keep doubling the divisor until it becomes larger than the remaining dividend
+            temp_divisor, multiple = divisor, 1
+            while dividend >= (temp_divisor << 1):
+                temp_divisor <<= 1
+                multiple <<= 1
+        
+        # Subtract the doubled divisor from the remaining dividend
+            dividend -= temp_divisor
+            quotient += multiple
+    
+        return sign * quotient
+
+        
