@@ -62,6 +62,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - letterCombinations
    - minSubArrayLen
    - nextGreaterElements
+   - divide
 
 ## License
 This repository is licensed under the MIT License
