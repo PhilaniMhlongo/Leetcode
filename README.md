@@ -55,6 +55,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - reverseOnlyLetters
    - romanToInteger
    - findIntersectionValue
+   - palindrome-number
 
 2. **Medium**
    - 3Sums
