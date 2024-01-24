@@ -56,6 +56,8 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - romanToInteger
    - findIntersectionValue
    - palindrome-number
+   - Remove Duplicates from Sorted Array
+
 
 2. **Medium**
    - 3Sums
