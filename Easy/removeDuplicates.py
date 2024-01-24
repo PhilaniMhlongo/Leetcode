@@ -48,3 +48,21 @@ Constraints:
 
 
 """
+class Solution:
+    def removeDuplicates(self, nums: List[int]) -> int:
+
+        # Edge case: empty array
+        if not nums:
+            return 0
+
+    # Initialize pointers
+        k = 1  # Position for the next unique element
+        for i in range(1, len(nums)):
+        # If the current element is different from the previous one, move it to the correct position
+            if nums[i] != nums[i - 1]:
+                nums[k] = nums[i]
+                k += 1
+
+        return k
+
+
