@@ -57,6 +57,8 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - findIntersectionValue
    - palindrome-number
    - Remove Duplicates from Sorted Array
+   - Search Insert Position
+
 
 
 2. **Medium**
