@@ -58,6 +58,8 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - palindrome-number
    - Remove Duplicates from Sorted Array
    - Search Insert Position
+   - Valid Parentheses
+
 
 
 
