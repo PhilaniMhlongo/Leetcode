@@ -60,6 +60,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Search Insert Position
    - Valid Parentheses
    - Remove Element
+   - mergeTwoLists
 
 
 2. **Medium**
