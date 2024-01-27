@@ -59,8 +59,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Remove Duplicates from Sorted Array
    - Search Insert Position
    - Valid Parentheses
-
-
+   - Remove Element
 
 
 2. **Medium**
