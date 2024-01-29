@@ -63,9 +63,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - mergeTwoLists
    - Find the Index of the First Occurrence in a String
    - Plus One
-
-
-
+   - Length of Last Word
 
 2. **Medium**
    - 3Sums
