@@ -36,3 +36,16 @@ Constraints:
 
 
 """
+
+class Solution:
+    def lengthOfLastWord(self, s: str) -> int:
+        s = s.rstrip()
+
+    # Find the last word and return its length
+        last_word_start = s.rfind(' ') + 1
+        return len(s) - last_word_start
+        
+
+
+
+
