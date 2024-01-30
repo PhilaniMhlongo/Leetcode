@@ -65,6 +65,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Plus One
    - Length of Last Word
    - Sqrt(x)
+   - deleteDuplicates
 
 
 2. **Medium**
