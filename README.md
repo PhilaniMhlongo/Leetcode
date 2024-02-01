@@ -68,6 +68,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - deleteDuplicates
    - Merge Sorted Array
    - Pascal's Triangle
+   - valid Palindrome
 
 
 2. **Medium**
