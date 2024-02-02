@@ -71,6 +71,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - valid Palindrome
    - Valid Anagram
    - Reverse String
+   - Add Binary
 
 
 2. **Medium**
