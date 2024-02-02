@@ -70,7 +70,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Pascal's Triangle
    - valid Palindrome
    - Valid Anagram
-
+   - Reverse String
 
 
 2. **Medium**
