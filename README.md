@@ -72,6 +72,8 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Valid Anagram
    - Reverse String
    - Add Binary
+   - Single Number
+
 
 
 2. **Medium**
