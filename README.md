@@ -74,7 +74,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Add Binary
    - Single Number
    - Move Zeroes
-
+   - Add Strings
 
 
 2. **Medium**
