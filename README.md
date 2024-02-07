@@ -75,6 +75,8 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Single Number
    - Move Zeroes
    - Add Strings
+   - Goat Latin
+
 
 
 2. **Medium**
