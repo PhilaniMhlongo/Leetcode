@@ -76,6 +76,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Move Zeroes
    - Add Strings
    - Goat Latin
+   - island-perimeter
 
 
 
