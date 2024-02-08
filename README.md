@@ -91,6 +91,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Permutations
    - Zigzag Conversion
    - Rotate Image
+   - Pow(x, n)
 
 ## License
 This repository is licensed under the MIT License
