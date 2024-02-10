@@ -79,8 +79,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - island-perimeter
    - Power of two
    - climbStairs
-
-
+   - Day of the Week
 
 2. **Medium**
    - 3Sums
