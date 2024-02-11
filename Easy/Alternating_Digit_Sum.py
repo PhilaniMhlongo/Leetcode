@@ -28,3 +28,14 @@ Constraints:
 
 1 <= n <= 109
 """
+class Solution:
+    def alternateDigitSum(self, n: int) -> int:
+        digits = [int(d) for d in str(n)] 
+        signed_sum = 0
+        
+        for i, digit in enumerate(digits):
+            sign = 1 if i == 0 else (-1) ** (i % 2)
+            signed_sum += sign * digit
+        
+        return signed_sum
+            
