@@ -80,7 +80,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Power of two
    - climbStairs
    - Day of the Week
-   - 2544. Alternating Digit Sum
+   - Alternating Digit Sum
 
 2. **Medium**
    - 3Sums
