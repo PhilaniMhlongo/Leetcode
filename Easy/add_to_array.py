@@ -37,3 +37,29 @@ Constraints:
 
 
 """
+class Solution:
+    def addToArrayForm(self, num: List[int], k: int) -> List[int]:
+        carry = 0
+        result = []
+
+        
+        for i in range(len(num) - 1, -1, -1):
+            digit_sum = num[i] + k % 10 + carry
+            carry = digit_sum // 10
+            result.append(digit_sum % 10)
+            k //= 10
+
+        
+        while k > 0:
+            digit_sum = k % 10 + carry
+            carry = digit_sum // 10
+            result.append(digit_sum % 10)
+            k //= 10
+
+        
+        if carry:
+            result.append(carry)
+
+        
+        return result[::-1]
+        
