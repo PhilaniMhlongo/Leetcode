@@ -83,8 +83,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Alternating Digit Sum
    - Number Complement
    - Add Digits
-
-
+   - Check If N and Its Double Exist
 
 2. **Medium**
    - 3Sums
