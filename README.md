@@ -84,6 +84,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Number Complement
    - Add Digits
    - Check If N and Its Double Exist
+   - add_to_array
 
 2. **Medium**
    - 3Sums
