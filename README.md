@@ -85,6 +85,8 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Add Digits
    - Check If N and Its Double Exist
    - add_to_array
+   - Cells with Odd Values in a Matrix
+
 
 2. **Medium**
    - 3Sums
