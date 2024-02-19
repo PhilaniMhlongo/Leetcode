@@ -102,6 +102,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Pow(x, n)
    - Longest Palindromic Substring
    -  Integer to Roman
+   -  Single Number III
 
 ## License
 This repository is licensed under the MIT License
