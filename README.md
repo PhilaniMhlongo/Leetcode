@@ -101,8 +101,10 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Rotate Image
    - Pow(x, n)
    - Longest Palindromic Substring
-   -  Integer to Roman
-   -  Single Number III
+   - Integer to Roman
+   - Single Number III
+   - Search a 2D Matrix
+
 
 ## License
 This repository is licensed under the MIT License
