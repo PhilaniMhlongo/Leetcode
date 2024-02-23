@@ -106,7 +106,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Single Number III
    - Search a 2D Matrix
    - Add Two Numbers
-
+   - Single Number II
 
 ## License
 This repository is licensed under the MIT License
