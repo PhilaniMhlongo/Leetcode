@@ -87,6 +87,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - add_to_array
    - Cells with Odd Values in a Matrix
    - Word Pattern
+   - Linked List Cycle
 
 
 2. **Medium**
