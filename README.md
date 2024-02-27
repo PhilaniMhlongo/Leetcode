@@ -110,6 +110,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Single Number II
    - Word Break
    - reverseWords
+   - Reverse Linked List II
 
 ## License
 This repository is licensed under the MIT License
