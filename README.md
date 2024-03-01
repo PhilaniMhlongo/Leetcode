@@ -113,6 +113,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Reverse Linked List II
    - Word Search
    - Maximum Gap
+   - Merge Intervals
 
 
 ## License
