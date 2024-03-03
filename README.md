@@ -21,12 +21,9 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/python-leetcode-problems.git
+   git clone git@github.com:PhilaniMhlongo/Leetcode.git
 
-2. **Navigate to a Specific Problem:**
 
-   ```bash
-   cd python-leetcode-problems/ProblemName
 
 ## Contributing
 
