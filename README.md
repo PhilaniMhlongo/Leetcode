@@ -85,6 +85,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Cells with Odd Values in a Matrix
    - Word Pattern
    - Linked List Cycle
+   - MyStack
 
 
 2. **Medium**
