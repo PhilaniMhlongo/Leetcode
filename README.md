@@ -86,6 +86,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Word Pattern
    - Linked List Cycle
    - MyStack
+   - missingNumber
 
 
 2. **Medium**
