@@ -87,7 +87,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Linked List Cycle
    - MyStack
    - missingNumber
-   - 160. Intersection of Two Linked Lists
+   - Intersection of Two Linked Lists
 
 
 2. **Medium**
