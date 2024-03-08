@@ -33,3 +33,15 @@ Constraints:
 
 
 """
+class Solution:
+    def mostCommonWord(self, paragraph: str, banned: List[str]) -> str:
+        banned_set = set(banned)
+    
+        
+        words = re.findall(r'\w+', paragraph.lower())
+        
+        word_count = Counter(word for word in words if word not in banned_set)
+        
+        return max(word_count, key=word_count.get)
+            
+
