@@ -117,6 +117,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Merge Intervals
    - Multiply Strings
    - Sort Linked List
+   - Bull and Cows
 
 
 
