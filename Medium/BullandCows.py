@@ -41,3 +41,23 @@ Constraints:
 
 
 """
+class Solution:
+    from collections import defaultdict
+    def getHint(self, secret: str, guess: str) -> str:
+        bulls = 0
+        cows = 0
+        secret_freq = defaultdict(int)
+        guess_freq = defaultdict(int)
+        
+        for s, g in zip(secret, guess):
+            if s == g:
+                bulls += 1
+            else:
+                secret_freq[s] += 1
+                guess_freq[g] += 1
+        
+        for digit, freq in guess_freq.items():
+            cows += min(freq, secret_freq[digit])
+        
+        return f"{bulls}A{cows}B"
+            
