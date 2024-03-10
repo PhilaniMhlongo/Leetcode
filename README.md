@@ -89,6 +89,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - missingNumber
    - Intersection of Two Linked Lists
    - mostCommonWord
+   - Power of Three
 
 
 2. **Medium**
