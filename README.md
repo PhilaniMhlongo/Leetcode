@@ -90,6 +90,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Intersection of Two Linked Lists
    - mostCommonWord
    - Power of Three
+   - reverseList
 
 
 2. **Medium**
