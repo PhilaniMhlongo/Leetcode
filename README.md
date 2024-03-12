@@ -91,6 +91,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - mostCommonWord
    - Power of Three
    - reverseList
+   - Intersection of Two Arrays
 
 
 2. **Medium**
