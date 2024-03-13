@@ -92,6 +92,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Power of Three
    - reverseList
    - Intersection of Two Arrays
+   - summaryRanges
 
 
 2. **Medium**
