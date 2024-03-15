@@ -93,6 +93,8 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - reverseList
    - Intersection of Two Arrays
    - summaryRanges
+   - Valid Perfect Square
+
 
 
 2. **Medium**
@@ -122,6 +124,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Multiply Strings
    - Sort Linked List
    - Bull and Cows
+
 
 
 
