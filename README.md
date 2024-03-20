@@ -96,6 +96,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Valid Perfect Square
    - reverseVowels
    - guessNumber
+   
 
 
 
@@ -128,6 +129,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Bull and Cows
    - Rotate Array
    - 132 Pattern
+   - Super Pow
 
 
 
