@@ -96,7 +96,9 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Valid Perfect Square
    - reverseVowels
    - guessNumber
-   - First Unique Character in a String 
+   - First Unique Character in a String
+   - Find the Difference
+
 
 
 
