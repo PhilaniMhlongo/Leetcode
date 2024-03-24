@@ -98,9 +98,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - guessNumber
    - First Unique Character in a String
    - Find the Difference
-
-
-
+   - Arranging Coins
 
 2. **Medium**
    - 3Sums
