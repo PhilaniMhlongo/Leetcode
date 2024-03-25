@@ -35,3 +35,12 @@ Constraints:
 
 
 """
+class Solution:
+    def constructRectangle(self, area: int) -> List[int]:
+        sqrt_area = int(math.sqrt(area))
+        for width in range(sqrt_area, 0, -1):
+            if area % width == 0:
+                return [area // width, width]
+        return [area, 1]
+        
+
