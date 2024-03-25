@@ -99,6 +99,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - First Unique Character in a String
    - Find the Difference
    - Arranging Coins
+   - constructRectangle
 
 2. **Medium**
    - 3Sums
