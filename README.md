@@ -100,6 +100,7 @@ Feel free to explore the solutions, learn from them, and contribute your own sol
    - Find the Difference
    - Arranging Coins
    - constructRectangle
+   - Repeated Substring Pattern
 
 2. **Medium**
    - 3Sums
