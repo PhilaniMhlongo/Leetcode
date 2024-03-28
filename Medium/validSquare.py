@@ -32,3 +32,22 @@ Constraints:
 
 
 """
+class Solution:
+    def validSquare(self, p1: List[int], p2: List[int], p3: List[int], p4: List[int]) -> bool:
+        def distance(p1, p2):
+            return (p1[0] - p2[0])**2 + (p1[1] - p2[1])**2
+        points = [p1, p2, p3, p4]
+        distances = set()
+        for i in range(len(points)):
+            for j in range(i + 1, len(points)):
+                d = distance(points[i], points[j])
+                if d == 0:
+                    return False
+                distances.add(d)
+        
+        if len(distances) != 2:
+            return False
+        
+        side, diagonal = sorted(list(distances))
+        return side * 2 == diagonal
+        
